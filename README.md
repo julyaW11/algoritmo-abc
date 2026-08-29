@@ -1,6 +1,6 @@
 # Artificial Bee Colony Algorithm 🐝
 
-O **Artificial Bee Colony (ABC)** é uma Inteligência Artificial (IA) de otimização matemática inspirada no comportamento inteligente das abelhas na natureza em busca de fontes de alimento. Ele é amplamente utilizado para encontrar a melhor solução (mínimo ou máximo) em problemas matemáticos complexos.
+O **Artificial Bee Colony (ABC)** é uma Inteligência Artificial (IA) de otimização matemática inspirada no comportamento das abelhas na natureza em busca de fontes de alimento. Ele é amplamente utilizado para encontrar a melhor solução (mínimo ou máximo) em problemas matemáticos complexos.
 
 Neste repositório há 2 versões deste código: uma -com- gráfico e outra -sem- gráfico. 
 Esta é a versão sem gráfico, portanto, básica.
